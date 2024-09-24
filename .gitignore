@@ -5,6 +5,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+#Main
+/node_modules
+
+
 # Server-side (Node.js/Express)
 server/node_modules/
 server/.env
