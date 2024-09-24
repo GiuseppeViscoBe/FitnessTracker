@@ -1,0 +1,4 @@
+/* In styles.css o global.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
