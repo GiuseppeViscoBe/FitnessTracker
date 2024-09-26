@@ -1,5 +1,5 @@
 import MainLayout from "./components/MainLayout";
-import HomePage from "./pages/HomePage";
+import HomePage from "./pages/home/HomePage";
 import "./App.css";
 
 function App() {
